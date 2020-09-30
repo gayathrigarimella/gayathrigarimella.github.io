@@ -1,3 +1,12 @@
+permalink: /
+title: "Gayathri Garimella"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Welcome!
 ======
 I am an undergraduate student, currently in my fifth year(10th Semester) of the Integrated Master's program at the International Institute of Information Technology, Bangalore. 

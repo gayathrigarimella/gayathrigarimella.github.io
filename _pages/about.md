@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "Gayathri Garimella"
 excerpt: "About me"

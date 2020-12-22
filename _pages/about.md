@@ -7,11 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Welcome!
+Namaskaram!
 ======
-I am a third year PhD student at Oregon State University studying computer science. I am part of the Advanced Research in Cryptography group and advised by Professor Mike Rosulek. My research interests are in the field of theoretical Cryptography focusing on primitives used to realize Secure Multi-Party Computation.  In general, I am passionate about theoretical computer science.
 
-I completed my undergraduation and graduation (dual degree) at the International Institute of Information Technology, Bangalore(IIIT-B) in 2018 in Computer Science with specialization in Theoretical Computer Science. I was guided on my journey with Cryptography by Prof. Ashish Choudhury from IIIT-B and was a regular visitor at CRiS Lab at Indian Institue of Science(IISc) and working with Prof. Arpita Patra was a great learning experience. 
+I am a third year Ph.D student at Oregon State University, and feel fortunate to be advised by Prof. Mike Rosulek. I study cryptography and my research involves designing and implementing protocols for Secure Computation. One line of work is about optimizing the specialized task of computing the intersection of two private datasets (Private Set Intersection), which finds many applications in practice. Another ongoing project is about improving the efficiency / studying the optimality of garbled circuits, an important primitive to realize Secure computation. 
 
-I can be reached at garimelg@oregonstate.edu
+Previously, I was an undergraduate student at IIIT-Bangalore. I was introduced to cryptography by Dr. Ashish Choudhury and 
+mentored by him to write my thesis: . During this time, I was hosted by Dr. Arpita Patra at CRiS Lab, IISc which was a stimulating learning experience. 
+
+I can be reached at \textit{garimelg} \textbf{at} \textit{oregonstate} \textbf{dot} \textit{edu}

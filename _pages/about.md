@@ -15,4 +15,4 @@ I am a third year Ph.D student at Oregon State University, and feel fortunate to
 Previously, I was an undergraduate student at [IIIT-Bangalore](https://www.iiitb.ac.in/). I was introduced to cryptography by [Dr. Ashish Choudhury](https://sites.google.com/site/ashishcrypto/) and 
 mentored by him to write my thesis: . During this time, I was hosted by [Dr. Arpita Patra](https://www.csa.iisc.ac.in/~arpita/) at [CRiS Lab, IISc](https://www.csa.iisc.ac.in/~cris/about.html) which was a stimulating learning experience. 
 
-I can be reached at *garimelg* at *oregonstate* dot *edu*
+I can be reached at **garimelg** at **oregonstate** dot **edu**

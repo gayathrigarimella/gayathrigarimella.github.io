@@ -1,5 +1,5 @@
 ---
-title: "Round efficient computationally secure multi-party computation revisited." CDCN 2019:  292-301."
+title: "Round efficient computationally secure multi-party computation revisited. ICDCN 2019: 292-301."
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'

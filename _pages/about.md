@@ -1,14 +1,12 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: "Trees, Dance, Yoga, "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-======
 
 I am a third year Ph.D student at Oregon State University, and feel fortunate to be advised by [Prof. Mike Rosulek](http://web.engr.oregonstate.edu/~rosulekm/). I study cryptography and my research involves designing and implementing protocols for Secure Computation. One line of work is about optimizing the specialized task of computing the intersection of two private datasets (Private Set Intersection), which finds many applications in practice. Another ongoing project is about improving the efficiency / studying the optimality of garbled circuits, an important primitive to realize Secure computation. 
 

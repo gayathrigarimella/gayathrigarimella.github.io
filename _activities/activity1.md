@@ -4,9 +4,8 @@ type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
 date: 2014-01-01
-description: "Hello done"
 location: "City, Country"
 ---
 
-1. Blah Blah 1
-2. Blah Blah 2
+1. Teaching Assistant (OSU): _CS517 - Complexity theory (Graduate)_
+2. Teaching Assistant (IIIT-B): _CS716 - Computing on Private Data (Graduate)_
